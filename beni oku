@@ -1,0 +1,29 @@
+# 🍃 Kozdere v2 - Akıllı Köy & Dernek Portalı
+
+Gurbetten sılaya uzanan, gelenekle teknolojinin buluştuğu nokta! Kozdere v2, dernekler, köy muhtarlıkları ve topluluklar için özel olarak geliştirilmiş, %100 mobil uyumlu ve dinamik bir yönetim portalıdır.
+
+🚀 **[Canlı Demo İçin Tıklayın](https://ossiqn.com.tr/kozdere2/index)**
+
+## ✨ Öne Çıkan Özellikler
+
+* ⚡ **Auto-Install Veritabanı:** Kurulum gerektirmez! Siteye ilk girişte tüm veritabanı ve tablolar (örnek verilerle) saniyeler içinde otomatik olarak kurulur.
+* 👥 **Gelişmiş Kullanıcı Rolleri:** Ziyaretçi, Onaylı Üye, İçerik Editörü ve Yönetici hiyerarşisi.
+* 📰 **Dinamik İlan Yönetimi:** Haberler, Vefat & Taziye (Canlı defterli), Düğün & Cemiyet ve Duyuru modülleri.
+* 🛒 **Üretici Pazarı:** Köylünün ürünlerini sergilediği, doğrudan WhatsApp üzerinden sipariş alan e-ticaret modülü.
+* 🌳 **Soyağacı:** Sülaleleri ve aile bağlarını listeleyen özel arşiv sistemi.
+* 🤝 **Dernek ve Fon:** IBAN kopyalama özellikli, bağış/burs ilerleme çubuklu dernek sayfası.
+* 📸 **Medya Arşivi:** Fotoğraf galerisi (Lightbox destekli) ve YouTube embed altyapılı video arşivi.
+* ⚙️ **Kapsamlı Admin Paneli:** Sitenin tamamını (Slider, Haberler, Üyeler, Yorumlar, Pazar) tek tıkla yönetebileceğiniz dark-mode destekli holding paneli.
+
+## 🛠️ Kurulum & Kullanım
+
+1. Dosyaları sunucunuza (htdocs veya public_html) yükleyin.
+2. `baglan.php` dosyasındaki veritabanı bilgilerinizi (`$db_host`, `$db_name`, `$db_user`, `$db_pass`) güncelleyin.
+3. Sitenin ana sayfasına bir kez giriş yapın. Veritabanı ve tablolar otomatik olarak kurulacaktır!
+
+**Varsayılan Yönetici Bilgileri:**
+* **Kullanıcı Adı:** `admin`
+* **Şifre:** `admin123`
+
+## 👨‍💻 Geliştirici
+**Ali (Obanai Iguro)** - [GitHub Profilim](https://github.com/ossiqn)
